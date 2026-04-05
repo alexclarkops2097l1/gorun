@@ -4,7 +4,7 @@
 
 gorun is built for dynamic users who need a reliable, open-source solution.
 
-[![tool](https://img.shields.io/badge/tool-MIT-green?style=flat-square) ![Version](https://img.shields.io/badge/Version-1.2.1-blue?style=flat-square) ![Platform](https://img.shields.io/badge/Platform-Windows-lightgrey?style=flat-square) ![Python](https://img.shields.io/badge/Python-3.11%2B-3776AB?style=flat-square&logo=python&logoColor=white) ![Stars](https://img.shields.io/github/stars/alexclarkops2097l1/gorun?style=flat-square) ![Last Commit](https://img.shields.io/github/last-commit/alexclarkops2097l1/gorun?style=flat-square)
+[![tool](https://img.shields.io/badge/tool-MIT-green?style=flat-square) ![Version](https://img.shields.io/badge/Version-1.2.2-blue?style=flat-square) ![Platform](https://img.shields.io/badge/Platform-Windows-lightgrey?style=flat-square) ![Python](https://img.shields.io/badge/Python-3.11%2B-3776AB?style=flat-square&logo=python&logoColor=white) ![Stars](https://img.shields.io/github/stars/alexclarkops2097l1/gorun?style=flat-square) ![Last Commit](https://img.shields.io/github/last-commit/alexclarkops2097l1/gorun?style=flat-square)
 
 Open-source Dynamic: Configurable, quick, and easy
 
